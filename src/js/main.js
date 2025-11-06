@@ -18,9 +18,9 @@ const THRESHOLDS = {
     BABY_TEMP_DANGER: 37.5,
     BABY_TEMP_WARNING: 37.0,
     ROOM_TEMP_MIN: 19,
-    ROOM_TEMP_MAX: 30,
+    ROOM_TEMP_MAX: 35,
     HUMIDITY_MIN: 35,
-    HUMIDITY_MAX: 65,
+    HUMIDITY_MAX: 70,
 };
 
 let alertTimeout = null;
